@@ -7,12 +7,21 @@
     tools:context=".MainActivity">
 
     <com.pp.scheduleviewdemo.widget.ScheduleExcelView
+        android:id="@+id/main_schedule"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:layout_margin="2dp"
+        android:layout_margin="4dp"
+        app:columTitleBackground="@color/colorPrimary"
+        app:columTitleTextColor="@color/white"
+        app:columTitleTextSize="13sp"
+        app:dividerColor="@color/colorPrimary"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:lineColor="@color/colorPrimary"
+        app:rowTitleTextColor="@color/colorPrimary"
+        app:rowTitleTextSize="10dp"
+        app:spanPercent="0.6" />
 
 </android.support.constraint.ConstraintLayout>

@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ScheduleViewDemo</string>
+
+    <string name="MONDAY">M</string>
+    <string name="TUESDAY">T</string>
+    <string name="WEDNESDAY">W</string>
+    <string name="THURSDAY">T</string>
+    <string name="FRIDAY">F</string>
+    <string name="SUNDAY">S</string>
+    <string name="SATURDAY">S</string>
 </resources>
