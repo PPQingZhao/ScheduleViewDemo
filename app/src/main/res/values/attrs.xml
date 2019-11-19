@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScheduleExcelView">
+        <attr name="columTitleTextColor" format="reference|color" />
+        <attr name="rowTitleTextColor" format="reference|color" />
+        <attr name="lineColor" format="color|reference" />
+        <attr name="columTitleBackground" format="reference|color" />
+        <attr name="scheduleColor" format="color|reference" />
+        <attr name="dividerColor" format="color|reference" />
+        <attr name="columTitleTextSize" format="reference|dimension"/>
+        <attr name="rowTitleTextSize" format="reference|dimension"/>
+        <attr name="spanPercent" format="float"/>
+    </declare-styleable>
+</resources>
