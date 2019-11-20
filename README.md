@@ -10,4 +10,4 @@
 <img src="https://github.com/PPQingZhao/ScheduleViewDemo/blob/master/screenshots/Screenshot_20191120_094130_com.pp.scheduleviewdemo.jpg" width="400"/>
 
 
-<img src="https://github.com/PPQingZhao/ScheduleViewDemo/blob/master/screenshots/Screenshot_20191120_094130_com.pp.scheduleviewdemo.jpg" width="400"/>
+<img src="https://github.com/PPQingZhao/ScheduleViewDemo/blob/master/screenshots/Screenshot_20191120_094200_com.pp.scheduleviewdemo.jpg" width="400"/>
