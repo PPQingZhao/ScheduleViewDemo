@@ -7,7 +7,7 @@
 
 运行截图:
 
-<img src="https://github.com/PPQingZhao/GridPagerDemo/blob/master/screenshots/1.jpg" width="400"/>
+<img src="https://github.com/PPQingZhao/ScheduleViewDemo/blob/master/screenshots/Screenshot_20191120_094130_com.pp.scheduleviewdemo.jpg" width="400"/>
 
 
-<img src="https://github.com/PPQingZhao/GridPagerDemo/blob/master/screenshots/1.jpg" width="400"/>
+<img src="https://github.com/PPQingZhao/ScheduleViewDemo/blob/master/screenshots/Screenshot_20191120_094130_com.pp.scheduleviewdemo.jpg" width="400"/>
